@@ -1,0 +1,25 @@
+{
+  "name": "home-sweet-home",
+  "description": "my personal home dashboard",
+  "version": "1.0.0",
+  "license": "",
+  "repository": "https://github.com/CatLover91/dashboard.git",
+  "author": "catlover91 <7215827+CatLover91@users.noreply.github.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "dependencies": {
+    "vue": "^3.0.0-beta.10"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-beta.10",
+    "sass": "^1.26.5",
+    "vite": "^0.15.0"
+  }
+}
